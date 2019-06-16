@@ -1,0 +1,5 @@
+colorama==0.4.1
+icalendar==4.0.3
+python-dateutil==2.8.0
+pytz==2019.1
+termcolor==1.1.0
